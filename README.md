@@ -1,10 +1,5 @@
-# SWS405 Unit VII – Lab 01 Report
+# SWS405 Unit VII – Lab 7 Report
 ## Static and Dynamic Malware Analysis Using Kali Linux in UTM
-
-**Name:** `<your name>` | **Student ID:** `<ID>` | **Date:** 18 November 2026
-**Module:** SWS405 – Unit VII (7.1 Malware Analysis)
-
----
 
 ## 1. Objective
 
@@ -21,9 +16,6 @@ To analyse a supplied training sample (`suspicious_sample.py`), a harmless ranso
 | Lab directory | `~/SWS405_MalwareLab` |
 | Network | UTM Shared Network (NAT), eth0 = 10.0.2.15/24 (see Limitations) |
 | Session logging | `script -a session.log` used to record all commands |
-
-> **[Screenshot placeholder – Tool versions]** `file --version`, `yara --version`, `strace --version`
-> **[Screenshot placeholder – UTM clone/snapshot taken before the lab]**
 
 ## 3. Methodology
 
